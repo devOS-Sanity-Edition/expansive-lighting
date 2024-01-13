@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "expansive_lighting:block/variable_redstone_lamp_4"
+  }
+}

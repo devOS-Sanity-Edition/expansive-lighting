@@ -2,7 +2,7 @@
 	"schema_version": 1,
 	"quilt_loader": {
 		"group": "one.devos.nautical",
-		"id": "expansive-lighting",
+		"id": "expansive_lighting",
 		"version": "${version}",
 		"metadata": {
 			"name": "Expansive Lighting",
@@ -20,8 +20,8 @@
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
-			"init": "one.devos.nautical.ExpansiveLighting",
-			"client_init": "one.devos.nautical.ExpansiveLightingClient"
+			"init": "one.devos.nautical.expansive_lighting.ExpansiveLighting",
+			"client_init": "one.devos.nautical.expansive_lighting.ExpansiveLightingClient"
 		},
 		"depends": [
 			{
@@ -35,10 +35,6 @@
 			{
 				"id": "minecraft",
 				"versions": "1.20.1"
-			},
-			{
-				"id": "midnightlib",
-				"versions": ">=1.4.0-"
 			}
 		]
 	},
