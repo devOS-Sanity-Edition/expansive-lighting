@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "expansive_lighting:block/gray_torch"
+        }
+    }
+}

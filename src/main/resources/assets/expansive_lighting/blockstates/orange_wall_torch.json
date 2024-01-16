@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=east": {
+            "model": "expansive_lighting:block/orange_wall_torch"
+        },
+        "facing=north": {
+            "model": "expansive_lighting:block/orange_wall_torch",
+            "y": 270
+        },
+        "facing=south": {
+            "model": "expansive_lighting:block/orange_wall_torch",
+            "y": 90
+        },
+        "facing=west": {
+            "model": "expansive_lighting:block/orange_wall_torch",
+            "y": 180
+        }
+    }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_torch",
+  "textures": {
+    "torch": "expansive_lighting:block/yellow_torch"
+  }
+}
