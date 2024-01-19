@@ -6,7 +6,7 @@
 		"version": "${version}",
 		"metadata": {
 			"name": "Expansive Lighting",
-			"description": "adds a lot of lighting blocks. someone come up with a better desc please",
+			"description": "Between the addition of a lamp whose output light is the same as the Redstone signal put into it, colored torches, and much more (eventually:tm:) you have many more ways to light your base and look snazzy too!",
 			"contributors": {
 				"Team Nautical": "Owner",
 				"Stereo528": "Lead Dev"
