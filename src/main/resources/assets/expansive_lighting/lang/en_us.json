@@ -1,0 +1,20 @@
+{
+  "itemGroup.expansive_lighting.expansive_lighting_tab": "Expansive Lighting",
+  "block.expansive_lighting.variable_redstone_lamp": "Variable Redstone Lamp",
+  "block.expansive_lighting.white_torch": "White Torch",
+  "block.expansive_lighting.light_gray_torch": "Light Gray Torch",
+  "block.expansive_lighting.gray_torch": "Gray Torch",
+  "block.expansive_lighting.black_torch": "Black Torch",
+  "block.expansive_lighting.brown_torch": "Brown Torch",
+  "block.expansive_lighting.red_torch": "Red Torch",
+  "block.expansive_lighting.orange_torch": "Orange Torch",
+  "block.expansive_lighting.yellow_torch": "Yellow Torch",
+  "block.expansive_lighting.lime_torch": "Lime Torch",
+  "block.expansive_lighting.green_torch": "Green Torch",
+  "block.expansive_lighting.cyan_torch": "Cyan Torch",
+  "block.expansive_lighting.light_blue_torch": "Light Blue Torch",
+  "block.expansive_lighting.blue_torch": "Blue Torch",
+  "block.expansive_lighting.purple_torch": "Purple Torch",
+  "block.expansive_lighting.magenta_torch": "Magenta Torch",
+  "block.expansive_lighting.pink_torch": "Pink Torch"
+}

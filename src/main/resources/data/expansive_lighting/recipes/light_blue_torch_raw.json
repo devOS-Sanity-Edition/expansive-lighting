@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "c",
+        "d",
+        "s"
+    ],
+    "key": {
+        "c": {
+            "item": "minecraft:coal"
+        },
+        "d": {
+            "item": "minecraft:light_blue_dye"
+        },
+        "s": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "expansive_lighting:light_blue_torch"
+    }
+}

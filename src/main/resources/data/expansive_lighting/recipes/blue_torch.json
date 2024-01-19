@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:torch"
+        },
+        {
+            "item": "minecraft:blue_dye"
+        }
+    ],
+    "result": {
+        "item": "expansive_lighting:blue_torch"
+    }
+}

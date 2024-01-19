@@ -4,7 +4,7 @@ minecraft = "1.20.1"
 quilt_loader = "0.23.0"
 
 quilted_fabric_api = "7.3.1+0.89.3-1.20.1"
-
+emi_version = "1.0.30+1.20.1"
 sodium_version = "mc1.20-0.4.10"
 mod_menu_version = "7.2.2"
 joml_version = "1.10.5"
@@ -19,12 +19,13 @@ quilted_fabric_api_deprecated = { module = "org.quiltmc.quilted-fabric-api:quilt
 sodium = { module = "maven.modrinth:sodium", version.ref = "sodium_version" }
 joml = { module = "org.joml:joml", version.ref = "joml_version" }
 mod_menu = { module = "com.terraformersmc:modmenu", version.ref = "mod_menu_version" }
+emi = { module = "dev.emi:emi-fabric", version.ref = "emi_version" }
 
 # If you have multiple similar dependencies, you can declare a dependency bundle and reference it on the build script with "libs.bundles.example".
 [bundles]
 quilted_fabric_api = ["quilted_fabric_api", "quilted_fabric_api_deprecated"]
-dev_mods = ["mod_menu"] #[ "joml", "sodium", "mod_menu" ]
-dependencies = [ "quilt_loader", "quilted_fabric_api"]
+dev_mods = ["mod_menu", "emi"] #[ "joml", "sodium", "mod_menu" ]
+dependencies = [ "quilt_loader", "quilted_fabric_api", "quilted_fabric_api_deprecated"]
 
 [plugins]
 quilt_loom = { id = "org.quiltmc.loom", version = "1.2.+" }

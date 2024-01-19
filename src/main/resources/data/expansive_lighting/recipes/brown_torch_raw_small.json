@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "cd",
+        "s"
+    ],
+    "key": {
+        "c": {
+            "item": "minecraft:coal"
+        },
+        "d": {
+            "item": "minecraft:brown_dye"
+        },
+        "s": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "expansive_lighting:brown_torch"
+    }
+}

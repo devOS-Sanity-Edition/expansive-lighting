@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ara",
+      "rgr",
+      "ara"
+    ],
+    "key": {
+      "a": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "r": {
+        "item": "minecraft:redstone"
+      },
+      "g": {
+        "item": "minecraft:glowstone"
+      }
+    },
+    "result": {
+      "item": "expansive_lighting:variable_redstone_lamp"
+    }
+  }
