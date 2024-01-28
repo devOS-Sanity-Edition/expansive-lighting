@@ -2,7 +2,7 @@
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "cd",
-        "s"
+        "s "
     ],
     "key": {
         "c": {
@@ -11,7 +11,7 @@
         "d": {
             "item": "minecraft:black_dye"
         },
-        "s": {
+        "s ": {
             "item": "minecraft:stick"
         }
     },
