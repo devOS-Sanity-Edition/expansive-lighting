@@ -5,10 +5,17 @@
             "item": "minecraft:torch"
         },
         {
+            "item": "minecraft:torch"
+        },
+        {
+            "item": "minecraft:torch"
+        },
+        {
             "item": "minecraft:magenta_dye"
         }
     ],
     "result": {
-        "item": "expansive_lighting:magenta_torch"
+        "item": "expansive_lighting:magenta_torch",
+        "count": 3
     }
 }

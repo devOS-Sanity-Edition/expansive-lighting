@@ -7,7 +7,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "expansive_lighting:magenta_torch"
+                    "name": "expansive_lighting:red_torch"
                 }
             ],
             "conditions": [
@@ -16,6 +16,5 @@
                 }
             ]
         }
-    ],
-    "random_sequence": "expansive_lighting:blocks/magenta_torch"
+    ]
 }

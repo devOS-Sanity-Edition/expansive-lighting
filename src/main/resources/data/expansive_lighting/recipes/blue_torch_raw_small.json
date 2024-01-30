@@ -11,11 +11,12 @@
         "d": {
             "item": "minecraft:blue_dye"
         },
-        "s ": {
+        "s": {
             "item": "minecraft:stick"
         }
     },
     "result": {
-        "item": "expansive_lighting:blue_torch"
+        "item": "expansive_lighting:blue_torch",
+        "count": 3
     }
 }

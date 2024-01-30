@@ -5,10 +5,17 @@
             "item": "minecraft:torch"
         },
         {
+            "item": "minecraft:torch"
+        },
+        {
+            "item": "minecraft:torch"
+        },
+        {
             "item": "minecraft:brown_dye"
         }
     ],
     "result": {
-        "item": "expansive_lighting:brown_torch"
+        "item": "expansive_lighting:brown_torch",
+        "count": 3
     }
 }

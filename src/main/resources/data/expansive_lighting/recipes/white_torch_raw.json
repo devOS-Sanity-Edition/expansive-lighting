@@ -17,6 +17,7 @@
         }
     },
     "result": {
-        "item": "expansive_lighting:white_torch"
+        "item": "expansive_lighting:white_torch",
+        "count": 3
     }
 }

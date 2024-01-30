@@ -17,6 +17,7 @@
         }
     },
     "result": {
-        "item": "expansive_lighting:red_torch"
+        "item": "expansive_lighting:red_torch",
+        "count": 3
     }
 }

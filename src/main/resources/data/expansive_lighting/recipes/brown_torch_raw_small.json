@@ -16,6 +16,7 @@
         }
     },
     "result": {
-        "item": "expansive_lighting:brown_torch"
+        "item": "expansive_lighting:brown_torch",
+        "count": 3
     }
 }

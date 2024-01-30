@@ -17,6 +17,7 @@
         }
     },
     "result": {
-        "item": "expansive_lighting:light_blue_torch"
+        "item": "expansive_lighting:light_blue_torch",
+        "count": 3
     }
 }

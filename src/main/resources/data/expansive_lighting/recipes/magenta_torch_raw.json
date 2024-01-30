@@ -17,6 +17,7 @@
         }
     },
     "result": {
-        "item": "expansive_lighting:magenta_torch"
+        "item": "expansive_lighting:magenta_torch",
+        "count": 3
     }
 }
